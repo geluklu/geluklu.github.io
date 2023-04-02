@@ -1,0 +1,19 @@
+.f{
+    font-size: large;
+    font-weight: 1000;
+    color: brown;
+}
+
+#button{
+    font-weight: bolder;
+    font-size: x-large;
+    color: aqua;
+    width: auto;
+    border: 100px solid green;
+    margin-left: 50%; 
+    margin-top: 10%;
+}
+
+#i{
+    color: blue;
+}
