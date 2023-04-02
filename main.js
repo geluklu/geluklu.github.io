@@ -7,6 +7,6 @@ function button()
 
 }
 function sifre(name){
-    const input=document.getElementById("i")
+
 
 }
