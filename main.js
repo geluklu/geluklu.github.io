@@ -1,12 +1,16 @@
+const param=0;
 
 function button()
 {
     const button=document.getElementById("button");
-    button.innerHTML="SELAMLAR";
-    //document.getElementById("button").innerHTML="ANANA";
+    if(button.innerHTML==="SELAMLAR"){
+        button.innerHTML="ANANA";
+    }else{
+        button.innerHTML="SELAMLAR";
+    }
 
 }
-function sifre(name){
-
-
+function sifre(){
+    const input=document.getElementById("i")
+    input.innerHTML="10";
 }
