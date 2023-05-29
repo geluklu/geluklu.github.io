@@ -1,0 +1,62 @@
+#amogusTwerkGif{
+    transition: 1.2s;
+}
+
+#amogusTwerkGif:hover{  
+    transform: rotateX('300');
+}
+
+
+.clickButton{
+    margin-top: 20px;
+    margin-left:auto;
+
+    transition: 0.25s;
+
+    background-color: orangered;
+    color: black;
+
+    border-width: 0.5px;
+    border-radius: 20%;
+
+    font-size: 25px ;
+    font-weight:550;
+    font-family: sans-serif;
+}
+.clickButton:hover{
+    background-color: black;
+    color: orangered;
+}
+
+#description{
+    margin-top: 20px;
+
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.codebutton{
+    background-color: antiquewhite;
+    color: blue;
+
+    font-size: 25px;
+    font-weight:550;
+
+    border-radius: 50%;
+    border-width: 3px;
+
+    transition: 1s;
+}
+
+.codebutton:hover{
+    background-color:darkblue;
+    color:bisque;
+}
+
+#contacts{
+    margin-left: 40%;
+}
+
+#mail{
+    font-weight: bold;
+}
